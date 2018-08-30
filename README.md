@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Red Hat Automation Solutions Catalog
 
-You can use the [editor on GitHub](https://github.com/RedHatAutomationSolutions/RedHatAutomationSolutions.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Today's business environment is changing more rapidly than ever. To succeed, businesses need to be agile and respond quickly as markets, customer needs, and regulations change. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This community is focused on providing solutions that automate business decisions and processes to enable digital business transformation and value delivery to customers.
+ 
+This page serves as a solutions catalog for various use cases with Red Hat Business Automation products - Red Hat Process Automation Manager and Red Hat Decision Manager products.
 
-### Markdown
+## Solutions:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Employee shift roster
 
-```markdown
-Syntax highlighted code block
+2. Dynamic Form generation
 
-# Header 1
-## Header 2
-### Header 3
+3. Credit card dispute 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Employee shift roster
 
-**Bold** and _Italic_ and `Code` text
+**Industry:** 
+Manufacturing, Healthcare, Telecommunications
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Use Case:** 
+Business entities that rely on employee shifts, such as factories or hospitals or call centers need to solve a common problem: how to schedule employees in multiple daily shifts so that each shift is staffed adequately, with the required skillset to maintain operations. The schedule can have various constraints — for example, that no employee works two consecutive shifts.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RedHatAutomationSolutions/RedHatAutomationSolutions.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Solution:**
+Red Hat Process Automation, powered by [Optaplanner](https://www.optaplanner.org/learn/useCases/employeeRostering.html) solves the problem with its robust constraint solving and planning capabilities. Employee shift roster solution is an application that takes inputs such as skillset, available timing and other constraints, finds an optimal scheduling for the required time period. A manager can easily edit the constraints and recalculate optimal shift roster based on the updated information.
