@@ -27,3 +27,11 @@ Business entities that rely on employee shifts, such as factories or hospitals o
 
 **Solution:**
 Red Hat Process Automation, powered by [Optaplanner](https://www.optaplanner.org/learn/useCases/employeeRostering.html) solves the problem with its robust constraint solving and planning capabilities. Employee shift roster solution is an application that takes inputs such as skillset, available timing and other constraints, finds an optimal scheduling for the required time period. A manager can easily edit the constraints and recalculate optimal shift roster based on the updated information.
+
+![Employee shift roster](https://github.com/RedHatAutomationSolutions/rh-automation-solutions.github.io/blob/master/Screen%20Shot%202018-08-30%20at%2012.32.42%20AM.png)
+
+**Demo video:**
+[Shift roster for car assembly in a factory](https://www.youtube.com/watch?v=GNq5mtbdtCo)
+
+**Try it yourself:**
+[Employee shift roster webapp](http://webapp-optashift-employee-rostering-116210134669362342209.6923.rh-us-east-1.openshiftapps.com/gwtui/gwtui.html#)
